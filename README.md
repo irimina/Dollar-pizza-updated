@@ -10,18 +10,16 @@ Kelsie hired a web developer to start the website. Sadly, the developer got tire
 Our job is to complete the website for Kelsie's Dollar Pizza so it looks like the mock-up above.
 
 ## Getting Started
-
-1. Clone this repository using `git clone`
-2. `cd` into the `dollar-pizza-react-final` folder
-3. `npm install`
-4. `npm start`
-
-Once everything is installed and you have started up the website, open the website and see what it looks like now.
+Clone this repository using git clone
+cd into the dollar-pizza-react-final folder
+npm install
+npm run dev (This starts the Vite development server)
+Open the local URL provided in your terminal (usually http://localhost:8000) and see what it looks like now.
 
 ## The Lab
 
 #### 1. Navbar
-To start off, we need to add a Navbar to the website. Luckily, this component has already been built. All you have to do is add it in the App.js file.
+To start off, we need to add a Navbar to the website. Luckily, this component has already been built. All you have to do is add it in the App.jsx file.
 
 #### 2. Pizza
 Open the file for the pizza component. It seems like the last developer made a few typos. Please edit the text so everything is spelled correctly. Also, add Kelsie's name to the text as well - you can also use your own name instead if you want. 
