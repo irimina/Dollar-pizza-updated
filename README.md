@@ -45,7 +45,7 @@ It looks like our yoga instructor web developer completely forgot write the most
 ## Extension (required)
 Create a whole new component on your own. Kelsie would like a **Footer** for the website that has the address and phone number for her pizza shop. Please create a Footer component and add it to the website. The store address is 555 Time Square, NY, NY 10000 and the phone number is (212) 555 5555.
 
-##7 Technically, our app should function well but there are a couple of things we need to fix in order to follow the best practices which is we need to do the following two things:
+## 7 Technically, our app should function well but there are a couple of things we need to fix in order to follow the best practices which is we need to do the following two things:
 
 - "In React, components are special! To stay organized and avoid errors when we put our website online, we should use PascalCase. Rename all your component files to start with a Capital Letter (e.g., Menu.jsx, Pizza.jsx, BBQ.jsx)."
 - You will need to will need to update the import lines. For example:  Old: import Pepperoni from './pepperoni'; and new should be New: import Pepperoni from './Pepperoni';
