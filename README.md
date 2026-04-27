@@ -47,6 +47,6 @@ Create a whole new component on your own. Kelsie would like a **Footer** for the
 
 ## 7 Technically, our app should function well but there are a couple of things we need to fix in order to follow the best practices which is we need to do the following two things:
 
-- "In React, components are special! To stay organized and avoid errors when we put our website online, we should use PascalCase. Rename all your component files to start with a Capital Letter (e.g., Menu.jsx, Pizza.jsx, BBQ.jsx)."
+- We should use PascalCase so we can stay organized. Rename all your component files to start with a Capital Letter (e.g., Menu.jsx, Pizza.jsx, BBQ.jsx)."
 - You will need to will need to update the import lines. For example:  Old: import Pepperoni from './pepperoni'; and new should be New: import Pepperoni from './Pepperoni';
-- pay attention to the CSS file imports so they match the new names
+- Pay attention to the CSS file imports so they match the new names
